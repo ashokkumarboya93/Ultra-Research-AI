@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔍 Ultra Research AI  
-### _AI-Powered Research Report Generator — Built with Gemini 2.0 Flash_
+### _AI-Powered Research Report Generator 
 
 A modern, elegant, and intelligent research automation dashboard that transforms queries, PDFs, text files, and images into **professional, structured research reports** using the power of **Google Gemini**, **Tavily Web Search**, and **OCR**.
 
@@ -16,7 +16,7 @@ A modern, elegant, and intelligent research automation dashboard that transforms
 </div>
 
 ---
-**Demo Link:** 🔗 [Access Demo]()
+**Demo Link:** 🔗 [Access Demo](https://drive.google.com/file/d/1wunbx8P6bPbA5w4SVH0u5uZKdp0OyTUA/view?usp=sharing)
 
 
 # 🌐 Overview
